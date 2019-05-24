@@ -1,0 +1,9 @@
+{
+  "name": "go-table",
+  "version": "1.0.0",
+  "description": "a table component for vue",
+  "main": "index.js",
+  "repository": "git@github.com:go-table/go-table.git",
+  "author": "liuxiaodong <xd.liumail@gmail.com>",
+  "license": "MIT"
+}
